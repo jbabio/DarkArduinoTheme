@@ -1,7 +1,10 @@
-![screenshot](https://raw.githubusercontent.com/jeffThompson/DarkArduinoTheme/master/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/jbabio/DarkArduinoTheme/master/screenshot.png)
 
 Dark Arduino Theme
 ================
+This theme is based on the Dark Arduino theme from Jeff Thompson: https://github.com/jeffThompson/DarkArduinoTheme
+
+I've basically changed the comments from gray(#aaaaaa) to green (#00e600) for better readibility (in my opinion).
 
 Revised for Arduino version 1.6.6+, not tested with earlier versions.
 

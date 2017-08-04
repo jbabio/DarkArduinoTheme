@@ -115,8 +115,8 @@ editor.label.style = #7e7e7e,bold
 
 
 # TEXT - COMMENTS
-editor.comment1.style = #aaaaaa,plain
-editor.comment2.style = #aaaaaa,plain
+editor.comment1.style = #00e600,plain
+editor.comment2.style = #00e600,plain
 
 
 # LINE STATUS - editor line number status bar at the bottom of the screen
